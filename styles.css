@@ -1,0 +1,59 @@
+body{
+color:black;
+background: black; 
+margin: 0px;
+font-family: "Roboto", system-ui;
+
+}
+
+header {
+border-bottom: solid 2px white;
+padding: 20px;
+font-size: 32px;
+color:pink;
+}
+
+section{
+    background-color: palevioletred;
+    padding-bottom: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    height: 200px;
+}
+
+.categoria-videos{
+    display:flex;
+    overflow-x: auto;
+}
+
+https://www.youtube.com/watch?v=XOqKnrsk4bw
+https://www.youtube.com/watch?v=WO5mpHlEzAU
+https://www.youtube.com/watch?v=46DevtQU6D0
+https://www.youtube.com/watch?v=Tz6epjyjULU
+https://www.youtube.com/watch?v=Q1mehjxEsOg
+
+
+
+
+
+
+
+
+
